@@ -1,4 +1,13 @@
 #  Java 技术知识点从0到1
+
+Day 1:Java多线程编程 - 解放CPU的力量
+
+Day 2:Java异常处理机制 - 简单理解与示例代码
+
+Day 3:-Java集合框架 - 功能强大的数据结构和算法工具
+
+Day 4:Java IO和文件操作
+
 Day 5: Java网络编程
 
 Day 6: Java反射和动态代理
