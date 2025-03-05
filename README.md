@@ -146,3 +146,46 @@
 - [Day 83: Java安卓开发 - 安全与权限管理](java-security-hardening.md)
 - [Day 87: Java区块链技术 - 隐私与安全](java-security-testing.md)
 - [Day 97: Java物联网 - 安全与隐私保护](java-security-practices.md)
+
+## Java进阶篇
+### 高级并发编程
+- [Day 101: Java高级并发编程 - 并发设计模式](java-concurrent-patterns.md)
+- [Day 102: Java高级并发编程 - 无锁并发与原子操作](java-lock-free-concurrent.md)
+- [Day 103: Java高级并发编程 - Fork/Join框架](java-fork-join.md)
+- [Day 104: Java高级并发编程 - CompletableFuture高级应用](java-completable-future.md)
+
+### JVM进阶
+- [Day 105: Java JVM进阶 - 类加载机制深入解析](java-classloader-advanced.md)
+- [Day 106: Java JVM进阶 - JVM内存模型详解](java-jvm-memory-model.md)
+- [Day 107: Java JVM进阶 - GC调优实战](java-gc-tuning.md)
+- [Day 108: Java JVM进阶 - JIT编译器优化](java-jit-compiler.md)
+
+### 分布式架构
+- [Day 109: Java分布式架构 - 分布式事务实现](java-distributed-transaction.md)
+- [Day 110: Java分布式架构 - 分布式锁设计](java-distributed-lock.md)
+- [Day 111: Java分布式架构 - 分布式缓存策略](java-distributed-cache.md)
+- [Day 112: Java分布式架构 - 分布式会话管理](java-distributed-session.md)
+
+### 高性能架构
+- [Day 113: Java高性能架构 - 高并发系统设计](java-high-concurrency.md)
+- [Day 114: Java高性能架构 - 异步编程模型](java-async-programming.md)
+- [Day 115: Java高性能架构 - 响应式编程](java-reactive-programming.md)
+- [Day 116: Java高性能架构 - Netty网络编程](java-netty-advanced.md)
+
+### 微服务高级实践
+- [Day 117: Java微服务高级 - 服务网格技术](java-service-mesh.md)
+- [Day 118: Java微服务高级 - 分布式追踪](java-distributed-tracing.md)
+- [Day 119: Java微服务高级 - API网关设计](java-api-gateway.md)
+- [Day 120: Java微服务高级 - 事件驱动架构](java-event-driven.md)
+
+### 架构设计
+- [Day 121: Java架构设计 - DDD领域驱动设计](java-ddd.md)
+- [Day 122: Java架构设计 - CQRS架构模式](java-cqrs.md)
+- [Day 123: Java架构设计 - 六边形架构](java-hexagonal.md)
+- [Day 124: Java架构设计 - 微内核架构](java-microkernel.md)
+
+### 云原生高级
+- [Day 125: Java云原生高级 - Serverless架构](java-serverless.md)
+- [Day 126: Java云原生高级 - Service Mesh实践](java-service-mesh-practice.md)
+- [Day 127: Java云原生高级 - 云原生可观测性](java-cloud-observability.md)
+- [Day 128: Java云原生高级 - GitOps与持续部署](java-gitops-cd.md)
